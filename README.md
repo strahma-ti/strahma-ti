@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning the latest concepts and technologies in front-end development
 - 👯 I’m looking to collaborate on projects involving front-end development and UI/UX design.
 - 🤔 I’m looking for help with ...
