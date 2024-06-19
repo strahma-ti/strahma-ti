@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strahma-ti&label=Profile%20views&color=0e75b6&style=flat" alt="strahma-ti" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strahma-ti&show_icons=true&locale=en&layout=compact" alt="strahma-ti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strahma-ti&show_icons=true&locale=en" alt="strahma-ti" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strahma-ti&" alt="strahma-ti" /></p>
 
 
