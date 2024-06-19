@@ -3,7 +3,7 @@
   Always open for any inquiries and prospects. Connect or reach through: sitirahmahcontact@gmail.com</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strahma-ti&label=Profile%20views&color=0e75b6&style=flat" alt="strahma-ti" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strahma-ti" alt="strahma-ti" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strahma-ti&show_icons=true&locale=en&layout=compact" alt="strahma-ti" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
